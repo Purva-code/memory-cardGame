@@ -52,7 +52,7 @@ body{
     transition: transform .2s ease-in-out;
     padding: 5px;
     background-color: white;
-    margin: 0 400px;
+    margin: 0 450px;
     margin-bottom: 15px;
 }
 #startreset:hover, #startreset:active{
